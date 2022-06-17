@@ -1,0 +1,209 @@
+
+body {
+    font-family: 'Archivo', sans-serif;
+    font-size: 18px;
+    background-color: #fff;
+    margin: 0px;
+    padding: 0px;
+    font-weight: 700;
+}
+
+a {
+    color: #000000;
+    text-decoration: underline;
+}
+
+section {
+
+    height: 100vh;
+    background-image: url(./1one_lessing.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    padding-bottom: 600px; 
+    padding-top: 600px; 
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+header {
+    position: fixed;
+    top: 20px;
+    left: 50px;
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    background-color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+    opacity: 0.9;
+    bottom:0;
+    padding-left: 50px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 20PX;
+    bottom: 0px;
+    left: 0px;
+}
+
+h1 {
+    font-size: 26px;
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+footer a {
+    margin-right: 5px;
+}
+a:hover {
+    color: #dddddd; 
+}
+
+
+.image_2 {
+    background-image: url(./2Leipzig.jpg);
+    text-align: center;
+    color:#fff;;
+    background-color: #fff;
+    padding-bottom: 600px; 
+    padding-top: 600px; 
+    padding-left: 200px;
+    padding-right: 200px; 
+    text-shadow: 5px -5px 5px darkblue,5px 5px 5px darkblue;
+    
+    
+}
+
+
+
+.image_3 {
+    background-image: url(./3Brandenburger-Tor-bei-Nacht.jpg);
+    text-align: center;
+    color:#fff;;
+    background-color: #fff;
+    text-shadow: 5px -5px 5px darkblue,5px 5px 5px darkblue;
+    padding-bottom: 600px; 
+    padding-top: 600px; 
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.image_4 {
+    background-image: url(./4wittenberg.jpg);
+    text-align: center;
+    color:#fff;;
+    background-color: #fff;
+    text-shadow: 5px -5px 5px darkblue,5px 5px 5px darkblue;
+    padding-bottom: 600px; 
+    padding-top: 600px; 
+    padding-left: 200px;
+    padding-right: 200px; 
+}
+.image_5 {
+    background-image: url(./5large_DJI_0098\ Bsw.jpg);
+    text-align: center;
+    color:#fff;;
+    background-color: #fff;
+    text-shadow: 5px -5px 5px darkblue,5px 5px 5px darkblue;
+    padding-bottom: 600px; 
+    padding-top: 600px; 
+    padding-left: 200px;
+    padding-right: 200px; 
+}
+.image_6 {
+    background-image: url(./6Berlin_Map_1885.jpg);
+    text-align: center;
+    color:#fff;;
+    background-color: #fff;
+    text-shadow: 5px -5px 5px darkblue,5px 5px 5px darkblue;
+    padding-bottom: 600px; 
+    padding-top: 600px; 
+    padding-left: 200px;
+    padding-right: 200px; 
+}
+.image_7 {
+    background-image: url(./7breslau.jpg);
+    text-align: center;
+    color:#fff;;
+    background-color: #fff;
+    text-shadow: 5px -5px 5px darkblue,5px 5px 5px darkblue;
+    padding-bottom: 600px; 
+    padding-top: 600px; 
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.image_8 {
+    background-image: url(./8schwarz-weiss-fotografie-berlin-skyline.jpg);
+    text-align: center;
+    color:#fff;;
+    background-color: #fff;
+    text-shadow: 5px -5px 5px darkblue,5px 5px 5px darkblue;
+    padding-bottom: 600px; 
+    padding-top: 600px; 
+    padding-left: 200px;
+    padding-right: 200px; 
+}
+.image_9 {
+    background-image: url(./9Hamburg_Stadttheater_um_1890.jpg);
+    text-align: center;
+    color:#fff;;
+    background-color: #fff;
+    text-shadow: 5px -5px 5px darkblue,5px 5px 5px darkblue;
+    padding-bottom: 600px; 
+    padding-top: 600px; 
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.image_10 {
+    background-image: url(./10wolfenbütel.jpg);
+    text-align: center;
+    color:#fff;;
+    background-color: #fff;
+    text-shadow: 5px -5px 5px darkblue,5px 5px 5px darkblue;
+    padding-bottom: 600px; 
+    padding-top: 600px; 
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.image_11 {
+    background-image: url(./11FS_PE265957.jpg);
+    text-align: center;
+    color:#fff;;
+    background-color: #fff;
+    text-shadow: 5px -5px 5px darkblue,5px 5px 5px darkblue;
+    padding-bottom: 600px; 
+    padding-top: 600px; 
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+
+
+
+
+div.container3 {
+    height: auto;
+    display: center;
+    background-color: white;
+    padding: 10px;
+    color: #333;
+    opacity: 0.75;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    align-items: center 
+}
+
+
+
+
+
+
+    h2 {
+        text-align: center;
+        font-size: 26px;
+    }
